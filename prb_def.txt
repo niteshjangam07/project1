@@ -3,13 +3,18 @@ Case study Problem defiition:
 Fabrikam multinational company wanted to build and host 
 "Information management solution" in web.They also want 
 to host online shopping website to interact with customer,
-so that their customer can check products on that website 
+so that their customer can check the products on that website 
 and buy it.In addition they want to build feedback management 
-system for all their employees.
+system and management related information.
 
 
-functional requirement:
+--functional requirements:
+Descriptions of data to be entered into the system
+Descriptions of operations performed by each screen
+Descriptions of work-flows performed by the system
+Descriptions of system reports or other outputs
+Who can enter the data into the system
 
+--non functional requirement:
+1.security for the website.
 
-
-non functional requirement:
