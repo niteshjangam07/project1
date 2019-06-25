@@ -1,0 +1,15 @@
+Case study Problem defiition:
+
+Fabrikam multinational company wanted to build and host 
+"Information management solution" in web.They also want 
+to host online shopping website to interact with customer,
+so that their customer can check products on that website 
+and buy it.In addition they want to build feedback management 
+system for all their employees.
+
+
+functional requirement:
+
+
+
+non functional requirement:
